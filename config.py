@@ -36,4 +36,5 @@ BASE_PARAMS = {
 }
 
 
+# 速算闯关年级列表
 GRADES = ['FirstGrade', 'SecondGrade', 'ThirdGrade', 'FourthGrade', 'FifthGrade', 'SixthGrade']
